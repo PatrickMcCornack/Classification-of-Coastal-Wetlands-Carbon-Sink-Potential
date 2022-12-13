@@ -1,2 +1,3 @@
-# Classification-of-Coastal-Wetlands-Carbon-Sink-Potential
-An analysis of the use of a K Nearest Neighbors approach to classifiying the carbon sink potential of coastal wetlands in the PNW using environmental parameters. 
+Currently under development. After completion it will be updated with the report and associated data. \n \n
+
+Data sourced from: Kauffman JB, Giovanonni L, Kelly J, et al. Total ecosystem carbon stocks at the marine-terrestrial interface: Blue carbon of the Pacific Northwest Coast, United States (2020). Global Change Biology, 26:5679–5692. https://doi.org/10.1111/gcb.15248
